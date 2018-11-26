@@ -1,4 +1,0 @@
-#!/bin/sh
-
-python hooks/pre-commit.py
-git add *.bas
